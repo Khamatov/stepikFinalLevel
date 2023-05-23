@@ -3,4 +3,6 @@ from .locators import MainPageLocators
 
 
 class ProductPage(BasePage):
-    def fff
+    productTestLink = 'http://selenium1py.pythonanywhere.com/catalogue/the-shellcoders-handbook_209/?promo=newYear'
+
+    def
